@@ -17,3 +17,10 @@ print('Gabriel')
 
 
 print('Gabriel')
+
+PRINT("LUCAS")
+
+print("eba")
+
+nome = input("Digite seu nome: ")
+print(nome)
